@@ -24,3 +24,29 @@ d:\desktop & documents\documents\visual studio 2013\Projects\Admin Menu\Admin Me
 d:\desktop & documents\documents\visual studio 2013\Projects\Admin Menu\Admin Menu\obj\Debug\Admin Menu.csprojResolveAssemblyReference.cache
 d:\desktop & documents\documents\visual studio 2013\Projects\Admin Menu\Admin Menu\obj\Debug\Admin Menu.dll
 d:\desktop & documents\documents\visual studio 2013\Projects\Admin Menu\Admin Menu\obj\Debug\Admin Menu.pdb
+D:\Desktop & Documents\Desktop\Admin Menu\Admin Menu\bin\Admin Menu.dll.config
+D:\Desktop & Documents\Desktop\Admin Menu\Admin Menu\bin\Admin Menu.dll
+D:\Desktop & Documents\Desktop\Admin Menu\Admin Menu\bin\Admin Menu.pdb
+D:\Desktop & Documents\Desktop\Admin Menu\Admin Menu\bin\Antlr3.Runtime.dll
+D:\Desktop & Documents\Desktop\Admin Menu\Admin Menu\bin\Microsoft.Web.Infrastructure.dll
+D:\Desktop & Documents\Desktop\Admin Menu\Admin Menu\bin\Newtonsoft.Json.dll
+D:\Desktop & Documents\Desktop\Admin Menu\Admin Menu\bin\System.Web.Helpers.dll
+D:\Desktop & Documents\Desktop\Admin Menu\Admin Menu\bin\System.Web.Mvc.dll
+D:\Desktop & Documents\Desktop\Admin Menu\Admin Menu\bin\System.Web.Optimization.dll
+D:\Desktop & Documents\Desktop\Admin Menu\Admin Menu\bin\System.Web.Razor.dll
+D:\Desktop & Documents\Desktop\Admin Menu\Admin Menu\bin\System.Web.WebPages.Deployment.dll
+D:\Desktop & Documents\Desktop\Admin Menu\Admin Menu\bin\System.Web.WebPages.dll
+D:\Desktop & Documents\Desktop\Admin Menu\Admin Menu\bin\System.Web.WebPages.Razor.dll
+D:\Desktop & Documents\Desktop\Admin Menu\Admin Menu\bin\WebGrease.dll
+D:\Desktop & Documents\Desktop\Admin Menu\Admin Menu\bin\System.Web.Helpers.xml
+D:\Desktop & Documents\Desktop\Admin Menu\Admin Menu\bin\System.Web.Mvc.xml
+D:\Desktop & Documents\Desktop\Admin Menu\Admin Menu\bin\System.Web.Optimization.xml
+D:\Desktop & Documents\Desktop\Admin Menu\Admin Menu\bin\System.Web.Razor.xml
+D:\Desktop & Documents\Desktop\Admin Menu\Admin Menu\bin\System.Web.WebPages.xml
+D:\Desktop & Documents\Desktop\Admin Menu\Admin Menu\bin\System.Web.WebPages.Deployment.xml
+D:\Desktop & Documents\Desktop\Admin Menu\Admin Menu\bin\System.Web.WebPages.Razor.xml
+D:\Desktop & Documents\Desktop\Admin Menu\Admin Menu\bin\Newtonsoft.Json.xml
+D:\Desktop & Documents\Desktop\Admin Menu\Admin Menu\bin\Antlr3.Runtime.pdb
+D:\Desktop & Documents\Desktop\Admin Menu\Admin Menu\obj\Debug\Admin Menu.csprojResolveAssemblyReference.cache
+D:\Desktop & Documents\Desktop\Admin Menu\Admin Menu\obj\Debug\Admin Menu.dll
+D:\Desktop & Documents\Desktop\Admin Menu\Admin Menu\obj\Debug\Admin Menu.pdb
