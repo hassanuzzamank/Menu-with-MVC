@@ -1,0 +1,26 @@
+d:\desktop & documents\documents\visual studio 2013\Projects\Admin Menu\Admin Menu\bin\Admin Menu.dll.config
+d:\desktop & documents\documents\visual studio 2013\Projects\Admin Menu\Admin Menu\bin\Admin Menu.dll
+d:\desktop & documents\documents\visual studio 2013\Projects\Admin Menu\Admin Menu\bin\Admin Menu.pdb
+d:\desktop & documents\documents\visual studio 2013\Projects\Admin Menu\Admin Menu\bin\Antlr3.Runtime.dll
+d:\desktop & documents\documents\visual studio 2013\Projects\Admin Menu\Admin Menu\bin\Microsoft.Web.Infrastructure.dll
+d:\desktop & documents\documents\visual studio 2013\Projects\Admin Menu\Admin Menu\bin\Newtonsoft.Json.dll
+d:\desktop & documents\documents\visual studio 2013\Projects\Admin Menu\Admin Menu\bin\System.Web.Helpers.dll
+d:\desktop & documents\documents\visual studio 2013\Projects\Admin Menu\Admin Menu\bin\System.Web.Mvc.dll
+d:\desktop & documents\documents\visual studio 2013\Projects\Admin Menu\Admin Menu\bin\System.Web.Optimization.dll
+d:\desktop & documents\documents\visual studio 2013\Projects\Admin Menu\Admin Menu\bin\System.Web.Razor.dll
+d:\desktop & documents\documents\visual studio 2013\Projects\Admin Menu\Admin Menu\bin\System.Web.WebPages.Deployment.dll
+d:\desktop & documents\documents\visual studio 2013\Projects\Admin Menu\Admin Menu\bin\System.Web.WebPages.dll
+d:\desktop & documents\documents\visual studio 2013\Projects\Admin Menu\Admin Menu\bin\System.Web.WebPages.Razor.dll
+d:\desktop & documents\documents\visual studio 2013\Projects\Admin Menu\Admin Menu\bin\WebGrease.dll
+d:\desktop & documents\documents\visual studio 2013\Projects\Admin Menu\Admin Menu\bin\System.Web.Helpers.xml
+d:\desktop & documents\documents\visual studio 2013\Projects\Admin Menu\Admin Menu\bin\System.Web.Mvc.xml
+d:\desktop & documents\documents\visual studio 2013\Projects\Admin Menu\Admin Menu\bin\System.Web.Optimization.xml
+d:\desktop & documents\documents\visual studio 2013\Projects\Admin Menu\Admin Menu\bin\System.Web.Razor.xml
+d:\desktop & documents\documents\visual studio 2013\Projects\Admin Menu\Admin Menu\bin\System.Web.WebPages.xml
+d:\desktop & documents\documents\visual studio 2013\Projects\Admin Menu\Admin Menu\bin\System.Web.WebPages.Deployment.xml
+d:\desktop & documents\documents\visual studio 2013\Projects\Admin Menu\Admin Menu\bin\System.Web.WebPages.Razor.xml
+d:\desktop & documents\documents\visual studio 2013\Projects\Admin Menu\Admin Menu\bin\Newtonsoft.Json.xml
+d:\desktop & documents\documents\visual studio 2013\Projects\Admin Menu\Admin Menu\bin\Antlr3.Runtime.pdb
+d:\desktop & documents\documents\visual studio 2013\Projects\Admin Menu\Admin Menu\obj\Debug\Admin Menu.csprojResolveAssemblyReference.cache
+d:\desktop & documents\documents\visual studio 2013\Projects\Admin Menu\Admin Menu\obj\Debug\Admin Menu.dll
+d:\desktop & documents\documents\visual studio 2013\Projects\Admin Menu\Admin Menu\obj\Debug\Admin Menu.pdb
